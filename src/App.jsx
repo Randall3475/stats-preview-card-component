@@ -146,8 +146,7 @@ const CardStatTitle = styled.div`
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #FFFFFF;
-  mix-blend-mode: normal;
-  opacity: 0.6;
+  mix-blend-mode: multiply;
 `;
 const CardRight = styled.div``;
 const CardPicture = styled.picture`
